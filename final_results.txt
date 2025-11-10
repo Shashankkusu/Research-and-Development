@@ -1,0 +1,27 @@
+=== FINAL OPTIMIZATION RESULTS ===
+
+θ (Theta)        : 30.080874 degrees
+M (Exponent)     : 0.028888
+X (Shift)        : 55.063842
+L1 Distance      : 7717.074123
+
+----------------------------------------
+📘 LaTeX Equation:
+\left(t*\cos(30.080874)-e^{0.0289\left|t\right|}\cdot\sin(0.3t)\sin(30.080874)\ +55.0638,42+\ t*\sin(30.080874)+e^{0.0289\left|t\right|}\cdot\sin(0.3t)\cos(30.080874)\right)
+----------------------------------------
+
+📊 Quality Metrics
+----------------------------------------
+Metric         Value
+-------------------------
+l1             7717.074123
+l2             224.965786
+mae_x          4.031317
+mae_y          1.113399
+rmse_x         5.535391
+rmse_y         1.760451
+max_error      21.191688
+min_error      0.013945
+median_error   4.419087
+----------------------------------------
+✅ Results saved successfully.
