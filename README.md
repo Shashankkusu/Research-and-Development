@@ -157,7 +157,8 @@ Notes / scope
 - The literature survey is lightweight and intended to indicate algorithmic provenance and practical references.
 
 License
-- MIT License.
+- MIT License.[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Contact
 - Repository owner: @Shashankkusu
